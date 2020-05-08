@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="guidelineHorizontal95" type="id" />
+    <item name="guidelineVertical05" type="id" />
+    <item name="guidelineVertical95" type="id" />
+    <item name="guidelineHorizontal05" type="id" />
+    <item name="btn_subtractFromMemory" type="id" />
+    <item name="guidelineHorizontal35" type="id" />
+    <item name="btn_addToMemory" type="id" />
+    <item name="guidelineVertical25" type="id" />
+    <item name="guidelineVertical50" type="id" />
+    <item name="btn_divide" type="id" />
+    <item name="guidelineVertical75" type="id" />
+    <item name="btn_toggleSign" type="id" />
+    <item name="btn_nine" type="id" />
+    <item name="btn_eight" type="id" />
+    <item name="btn_six" type="id" />
+    <item name="btn_five" type="id" />
+    <item name="btn_three" type="id" />
+    <item name="btn_two" type="id" />
+    <item name="btn_dot" type="id" />
+</resources>
